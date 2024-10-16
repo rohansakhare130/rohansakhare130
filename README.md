@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansakhare130&label=Profile%20views&color=0e75b6&style=flat" alt="rohansakhare130" /> </p>
 
-- 💬 Ask me about **MERN, Core-java**
+- 💬 Ask me about **React Js, Next JS, HTML, CSS, JS, TS, SQL, MongoDB**
 
 - 📫 How to reach me **rohansakhare130@gmail.com**
 
