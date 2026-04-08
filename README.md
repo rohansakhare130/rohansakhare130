@@ -22,6 +22,11 @@
 <a href="https://www.linkedin.com/in/rohan-sakhare-60b2341a9/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
 </a>
+  <a href="mailto:rohansakhare130@gmail.com">
+  <img align="center" 
+       src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" 
+       height="30" width="40" />
+</a>
 </p>
 
 ---
