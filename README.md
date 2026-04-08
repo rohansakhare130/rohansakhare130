@@ -80,12 +80,15 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohansakhare130&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohansakhare130&show_icons=true&locale=en" />
+<p align="left">
+ <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=rohansakhare130&show_icons=true&theme=tokyonight" 
+    height="150"
+  />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohansakhare130&layout=compact&theme=tokyonight" 
+    height="150"
+  />
 </p>
 
 <p>
