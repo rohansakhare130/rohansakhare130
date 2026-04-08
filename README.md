@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansakhare130&label=Profile%20views&color=0e75b6&style=flat" alt="rohansakhare130" /> </p>
 
-- 💬 Ask me about **React Js, Next JS, HTML, CSS, JS, TS, SQL, MongoDB**
+- 💬 Ask me about **HTML, CSS, JS, React Js, Next JS, SQL, MongoDB, AWS, basic knowledge Networking, Linux, ci-cd pipeline**
 
 - 📫 How to reach me **rohansakhare130@gmail.com**
 
 - 📄 Resume [[https://drive.google.com/file/d/1BdPzRzbkWkMKDwf2QClRGJnJ6IUn3xb5/view?usp=drive_link](https://drive.google.com/file/d/1LumQpykQfeoUbM6XMcpQl2a5WUOYf8Vz/view?usp=sharing)]
 
-- ⚡ Fun fact **I am Funny.**
+- ⚡ Fun fact **Learn new technical skills and experiment with new technologies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
