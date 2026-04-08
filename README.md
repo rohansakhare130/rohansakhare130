@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rohansakhare130@gmail.com**
 
-- 📄 Resume [[https://drive.google.com/file/d/1BdPzRzbkWkMKDwf2QClRGJnJ6IUn3xb5/view?usp=drive_link](https://drive.google.com/file/d/1LumQpykQfeoUbM6XMcpQl2a5WUOYf8Vz/view?usp=sharing)]([https://drive.google.com/file/d/1BdPzRzbkWkMKDwf2QClRGJnJ6IUn3xb5/view?usp=drive_link](https://drive.google.com/file/d/1LumQpykQfeoUbM6XMcpQl2a5WUOYf8Vz/view?usp=sharing))
+- 📄 Resume [[https://drive.google.com/file/d/1BdPzRzbkWkMKDwf2QClRGJnJ6IUn3xb5/view?usp=drive_link](https://drive.google.com/file/d/1LumQpykQfeoUbM6XMcpQl2a5WUOYf8Vz/view?usp=sharing)]
 
 - ⚡ Fun fact **I am Funny.**
 
