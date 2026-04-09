@@ -92,5 +92,9 @@
 </p>
 
 <p>
-  <img align="center" src="https://streak-stats.demolab.com/?user=rohansakhare130" />
+  <img 
+  src="https://streak-stats.demolab.com?user=rohansakhare130&theme=tokyonight&hide_border=true&ring=DD2727&fire=DD2727&currStreakLabel=DD2727" 
+/>
 </p>
+
+
